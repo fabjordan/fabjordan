@@ -4,7 +4,7 @@
 
 </div>
 
-### Hi, my name is Fabrício Jordan, I have a degree in Computer Science and I'm a Full Stack developer 👨🏽‍💻 in Brazil: brazil:, I currently work at [@codions] (https://codions.com) as a developer and project manager.
+Hi, my name is Fabrício Jordan, I have a degree in Computer Science and I'm a 👨🏽‍💻 Full Stack developer in Brazil :brazil:, I currently work at [@codions](https://codions.com) as a developer and project manager.
 
 ---
 
