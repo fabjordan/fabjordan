@@ -1,10 +1,10 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> Hi there, I'm Jordan
+  ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">  Hi there, I'm Jordan
 
 </div>
 
-Hi, my name is Fabrício Jordan, I have a degree in Computer Science and I'm a 👨🏽‍💻 Full Stack developer in Brazil :brazil:, I currently work at [@codions](https://codions.com) as a developer and project manager.
+Hi, my name is Fabrício Jordan, I have a degree in Computer Science and i'm a 👨🏽‍💻 Senior Development Analyst in Brazil :brazil:
 
 ---
 
@@ -12,11 +12,9 @@ Hi, my name is Fabrício Jordan, I have a degree in Computer Science and I'm a �
 
 ### **A little about myself:**
 
-- 👨🏽‍💻 Currently studying Project Management, DevOps and Microservices
-- 🌱 I'm interested in entrepreneurship, finance and startups![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/23218360/173602028-d05f564e-eb6e-4a8d-8331-80c41592ac84.gif)![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/23218360/173602025-5a18538a-a15c-43b0-ba99-6344e5a04fd8.gif)
-
-
-- 📈 Stock market investor![Uploading 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif…]()
+- 👨🏽‍💻 Focused on becoming a Full Cycle Developer
+- 🌱 I'm interested in entrepreneurship, finance and startups
+- 📈 Investor in the stock market and cryptocurrencies
 
 
 <br>
@@ -27,8 +25,20 @@ Hi, my name is Fabrício Jordan, I have a degree in Computer Science and I'm a �
 <img src="https://fabjordan.github.io/about-me/img/laravel.d5228773.svg" width="50" style="margin-right: 30px;">
 </span>
 <span>
-<img src="https://fabjordan.github.io/about-me/img/docker.761f3994.svg" width="50" style="margin-right: 30px;">
+<img src="https://fabjordan.github.io/about-me/img/docker.761f3994.svg" width="60" style="margin-right: 30px;">
+</span>
+<span>
+<img src="https://jordan.dev.br/img/nodejs.391dae46.svg" width="60" style="margin-right: 30px;">
 </span>
 <span>
 <img src="https://fabjordan.github.io/about-me/img/vue.d1d3a9ca.svg" width="50" style="margin-right: 30px;">
+</span>
+<span>
+<img src="https://jordan.dev.br/img/react.7ceb0e40.svg" width="50" style="margin-right: 30px;">
+</span>
+<span>
+<img src="https://jordan.dev.br/img/nextjs.9310ff6a.svg" width="50" style="margin-right: 30px;">
+</span>
+<span>
+<img src="https://jordan.dev.br/img/spring.6649a745.svg" width="50" style="margin-right: 30px;">
 </span>
